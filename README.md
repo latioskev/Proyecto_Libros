@@ -1,6 +1,5 @@
-# Mi Comida Favorita
-
-Una aplicación móvil desarrollada con **React Native** y **Firebase**, diseñada para gestionar perfiles de usuarios con autenticación y almacenamiento de datos personales.
+# Proyecto final 
+Una aplicación móvil desarrollada con **React Native** y **Firebase**, diseñada para gestionar perfiles de usuarios con autenticación y almacenamiento de datos personales permite visualizar lista de libros y ver sus caracteristicas consumiendo el API Book Lender.
 
 ---
 
